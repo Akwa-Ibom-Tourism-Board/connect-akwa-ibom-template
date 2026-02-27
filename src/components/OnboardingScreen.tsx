@@ -11,13 +11,13 @@ const slides = [
     icon: Plane,
     emoji: "✈️",
     heading: "Plan Your Entire Trip in One Place",
-    body: "Flights, hotels, food, car rentals — all sorted before you land.",
+    body: "Flights, hotels, food, car rentals — all sorted before you arrive.",
   },
   {
     icon: Palmtree,
     emoji: "🏖️",
-    heading: "Discover the Real Akwa Ibom",
-    body: "Beaches, waterfalls, cultural festivals, local food — experience it all.",
+    heading: "Discover our heritage",
+    body: "Connect Akwa Ibom in real time",
   },
   {
     icon: ShieldCheck,
